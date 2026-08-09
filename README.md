@@ -94,7 +94,6 @@ A GenAI-powered assistant for coding interview preparation, system design, and s
 - MCP servers and tool orchestration
 - Vector databases
 - LangGraph workflows
-- AWS deployment patterns
 - Staff-level system design
 - Java concurrency and distributed systems
 
