@@ -103,7 +103,7 @@ A GenAI-powered assistant for coding interview preparation, system design, and s
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 
 ---
